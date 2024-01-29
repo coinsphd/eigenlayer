@@ -1,0 +1,8 @@
+{
+  "name": "EigenDA",
+  "website": "https://www.eigenlayer.xyz/",
+  "description": "EigenDA is a secure, high throughput, and decentralized data availability (DA) service built on top of Ethereum using the EigenLayer restaking primitive",
+  "logo": "https://raw.githubusercontent.com/coinsphd/eigenlayer/main/eigenda.png",
+  "twitter": "https://twitter.com/eigen_da"
+}
+
